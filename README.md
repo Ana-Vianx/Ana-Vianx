@@ -1,7 +1,7 @@
 ## Oii eu sou a Ana, estudante e desenvolvedora iniciante!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Java" height="60" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Ana-Java" height="90" width="120" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
 </div>
   
   ##
