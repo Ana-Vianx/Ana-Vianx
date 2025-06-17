@@ -3,8 +3,8 @@
 ## Aqui você vai encontrar projetos pessoais, desafios de cursos e alguns testes, seja bem-vindo!!
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Ana-Java" height="90" width="120" src="https://github.com/devicons/devicon/blob/master/ icons/ java/java -original-wordmark.svg">
-  <img align="center" alt="Ana-Python" height="90" width="120" src="icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Ana-Java" height="90" width="120" src="java-original-wordmark.svg">
+  <img align="center" alt="Ana-Python" height="90" width="120" src="python-original-wordmark.svg">
 </div>
   
   ##
