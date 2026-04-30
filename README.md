@@ -28,9 +28,9 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/starwars-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/starwars.svg">
+  <img alt="star wars contribution graph" src="https://raw.githubusercontent.com/Ana-Vianx/Ana-Vianx/output/starwars.svg">
 </picture>
 
 ## 💻 Tecnologias e linguagens 
